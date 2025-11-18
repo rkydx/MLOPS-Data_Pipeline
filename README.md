@@ -41,7 +41,9 @@ It demonstrates real-world skills in **ML engineering, MLOps orchestration, clou
 
 ## Project Architecture (PNG Diagram)
 
-![Architecture Diagram](assets/MLOps_architec.png)
+<p align="center">
+  <img src="assets/MLOps_architech.png" width="60%">
+</p>
 
 ---
 
